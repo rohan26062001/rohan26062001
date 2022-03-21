@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rohan.das.official.01@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rohan-das-3423a5184/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACt78aIB1z0JVzgtfnxtyVVt37RigqnrxzI,1635470849850)/](https://www.linkedin.com/in/rohan-das-3423a5184/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACt78aIB1z0JVzgtfnxtyVVt37RigqnrxzI,1635470849850)/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rohan-das-3423a5184/](https://www.linkedin.com/in/rohan-das-3423a5184/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
