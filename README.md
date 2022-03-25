@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan26062001" alt="rohan26062001" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/rohan51316422" target="blank"><img src="https://img.shields.io/twitter/follow/rohan51316422?logo=twitter&style=for-the-badge" alt="rohan51316422" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rohanism26" target="blank"><img src="https://img.shields.io/twitter/follow/rohan51316422?logo=twitter&style=for-the-badge" alt="rohan51316422" /></a> </p>
 
 - 🔭 I’m currently working on [CRAFTSMEN](https://github.com/Craftsmen-GDSC)
 
