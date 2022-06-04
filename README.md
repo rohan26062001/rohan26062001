@@ -1,4 +1,7 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan</h1>
+<div align="center">
+    <img src="https://c.tenor.com/4k-pgr5BZv4AAAAd/developer-programmer.gif" width=300>
+</div>
+<h1>Hi, I'm Rohan</h1>
 <h3>I'm a Web-Dev Enthusiast🦾, Open Source Contributor🌏</h3>
 
 
