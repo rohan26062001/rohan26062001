@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://c.tenor.com/4k-pgr5BZv4AAAAd/developer-programmer.gif" width=300>
+    <img src="https://dz2cdn1.dzone.com/storage/temp/13990137-code-17.gif" width=300>
 </div>
 <h1>Hi, I'm Rohan</h1>
 <h3>I'm a Web-Dev Enthusiast🦾, Open Source Contributor🌏</h3>
@@ -33,13 +33,15 @@
 </p>
 
 ## 📊 My Github Stats
-<p align="center">
-  <br/>
+<div align="center">
+    
+  ![ALT](https://komarev.com/ghpvc/?username=rohan26062001&style=plastic&color=green)
+    <br/>
     <a href="https://github.com/rohan26062001/github-readme-stats"><img alt="Rohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohan26062001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/rohan26062001/github-readme-stats"><img alt="Rohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26062001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+</div>
 
 <br/>
 <br/>
